@@ -1,0 +1,22 @@
+[
+  {
+    "ParameterKey": "PasswordLength",
+    "ParameterValue": "16"
+  },
+  {
+    "ParameterKey": "S3GroupName",
+    "ParameterValue": "S3ReadOnlyGroup"
+  },
+  {
+    "ParameterKey": "EC2GroupName",
+    "ParameterValue": "EC2ReadOnlyGroup"
+  },
+  {
+    "ParameterKey": "S3UserName",
+    "ParameterValue": "s3-user"
+  },
+  {
+    "ParameterKey": "EC2UserName",
+    "ParameterValue": "ec2-user"
+  }
+]
